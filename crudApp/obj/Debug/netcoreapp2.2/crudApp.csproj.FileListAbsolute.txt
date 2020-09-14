@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\crudApp\crudApp\bin\Debug\netcoreapp2.2\crudApp.deps.json
+C:\Users\acer\source\repos\crudApp\crudApp\bin\Debug\netcoreapp2.2\crudApp.runtimeconfig.json
+C:\Users\acer\source\repos\crudApp\crudApp\bin\Debug\netcoreapp2.2\crudApp.runtimeconfig.dev.json
+C:\Users\acer\source\repos\crudApp\crudApp\bin\Debug\netcoreapp2.2\crudApp.dll
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.RazorAssemblyInfo.cache
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.RazorAssemblyInfo.cs
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.AssemblyInfo.cs
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.RazorTargetAssemblyInfo.cache
+C:\Users\acer\source\repos\crudApp\crudApp\bin\Debug\netcoreapp2.2\crudApp.pdb
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.dll
+C:\Users\acer\source\repos\crudApp\crudApp\obj\Debug\netcoreapp2.2\crudApp.pdb
